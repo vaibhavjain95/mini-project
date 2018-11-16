@@ -1,0 +1,6 @@
+create table bank_details(
+RID number(5),
+Password varchar2(20),
+Location varchar2(20),
+Account_Type varchar2(20),
+Account_No number(8));
